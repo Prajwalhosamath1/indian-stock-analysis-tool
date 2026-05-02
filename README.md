@@ -1,3 +1,5 @@
+## Version 1.0
+Initial release
 # Indian Stock Analysis Tool
 
 An open-source Python tool for analyzing Indian stock market data and generating basic trading signals.
