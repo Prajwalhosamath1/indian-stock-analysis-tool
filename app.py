@@ -1,3 +1,4 @@
+# Version 1.0 - Initial release of stock analysis tool
 import yfinance as yf
 import pandas as pd
 
